@@ -2,3 +2,4 @@
 acceleration_signals/Acceleration[[:space:]]Signals.xlsx filter=lfs diff=lfs merge=lfs -text
 acc_1.xlsx filter=lfs diff=lfs merge=lfs -text
 acc_2.xlsx filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
