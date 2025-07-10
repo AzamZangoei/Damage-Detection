@@ -25,11 +25,13 @@ Machine learning (classification, object detection)
 
 🔗 Download KHPD
 
-| Download Link      | Format   | Size      | Dataset         |
+| Dataset     | Size   | Format     | Download Link          |
 |----------------|--------|-----------|------------------|
-| `data1.xlsx`   | 250 MB | Excel     | سیگنال‌های شتاب  |
-| `images.zip`   | 1.2 GB | ZIP       | تصاویر ترک‌ها     |
-| `spectrograms` | 800 MB | PNG       | اسپکتروگرام‌ها    |
+| Acceleration_Signals   | 404 MB | Excel     | https://drive.google.com/drive/folders/1fii_RHSOM6R5h0bAxC_AdjBtGycMqmV4?usp=sharing  |
+| ST_Spectrogram_Accelometor   | 112 MB | PNG        | https://drive.google.com/drive/folders/1Ve2fMpN5PFYn49mNLUTxLTyNpBdt8CBe?usp=sharing     |
+| ST_Spectrogram_Smartphone | 623 MB | PNG       | اسپکتروگرام‌ها    |
+| camera images_part1 | 934 MB | ZIP       | https://drive.google.com/file/d/1bSkSW04dNdF0HQUITcadxNXLIetRIw5L/view?usp=sharing    |
+| camera images_part2 | 1.26 GB | ZIP       | https://drive.google.com/file/d/1OPNfdCiaA95y5gDoN8AOPbLJbo-CDv_5/view?usp=sharing   |
 
 📂 Dataset Structure
 
