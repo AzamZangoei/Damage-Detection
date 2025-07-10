@@ -25,11 +25,11 @@ Machine learning (classification, object detection)
 
 🔗 Download KHPD
 
-Dataset Part	Size	Format	Download Link
-Acceleration Signals	2.1 GB	.xlsx + .mat	📥 Download
-Crack Images	4.3 GB	.jpg	📥 Download
-S-Transform Spectrograms	1.8 GB	.png	📥 Download
-
+| نام فایل       | حجم    | فرمت      | توضیحات          |
+|----------------|--------|-----------|------------------|
+| `data1.xlsx`   | 250 MB | Excel     | سیگنال‌های شتاب  |
+| `images.zip`   | 1.2 GB | ZIP       | تصاویر ترک‌ها     |
+| `spectrograms` | 800 MB | PNG       | اسپکتروگرام‌ها    |
 
 📂 Dataset Structure
 
