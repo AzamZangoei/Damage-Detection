@@ -25,7 +25,7 @@ Machine learning (classification, object detection)
 
 🔗 Download KHPD
 
-| نام فایل       | حجم    | فرمت      | توضیحات          |
+| Download Link      | Format   | Size      | Dataset         |
 |----------------|--------|-----------|------------------|
 | `data1.xlsx`   | 250 MB | Excel     | سیگنال‌های شتاب  |
 | `images.zip`   | 1.2 GB | ZIP       | تصاویر ترک‌ها     |
