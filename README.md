@@ -7,14 +7,18 @@ It is designed for machine learning, signal processing, and computer vision rese
 Data Sources:
 
 📱 Smartphone accelerometer
+
 📊 MEMS accelerometer sensors
+
 📷 GoPro camera images
 
 Purpose: Crack detection using S-transform spectrograms and image analysis.
 
 Applications:
 Structural health monitoring
+
 Road condition assessment
+
 Machine learning (classification, object detection)
 
 🔗 Download KHPD
