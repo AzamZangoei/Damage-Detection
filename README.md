@@ -25,7 +25,11 @@ Machine learning (classification, object detection)
 
 🔗 Download KHPD
 
-📥 Download Link :
+Dataset Part	Size	Format	Download Link
+Acceleration Signals	2.1 GB	.xlsx + .mat	📥 Download
+Crack Images	4.3 GB	.jpg	📥 Download
+S-Transform Spectrograms	1.8 GB	.png	📥 Download
+
 
 📂 Dataset Structure
 
