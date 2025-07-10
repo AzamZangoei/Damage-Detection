@@ -17,6 +17,9 @@ Structural health monitoring
 Road condition assessment
 Machine learning (classification, object detection)
 
+🔗 Download KHPD
+📥 Download Link :
+
 📂 Dataset Structure
 1. acceleration_signals/
 📄 Acceleration_Signals.xlsx (Excel file with multiple sheets):
@@ -34,7 +37,9 @@ Sheets 3-5: Denoised MEMS accelerometer signals
 
 Labeled as:
 ✅ Healthy pavement
+
 ❌ Damaged pavement
+
 Spectrograms are cropped at 0.1s intervals
 ST-sig1_new_coif55_Crop → Full spectrograms (pre-cropping)
 
