@@ -79,10 +79,6 @@ Use YOLO for crack detection in images.
 
 Combine sensor + image data for multimodal learning.
 
-📜 Citation
-
-If you use this dataset, please cite:
-
 📬 Contact
 
 For questions, email: a.zangoei1376@gmail.com
