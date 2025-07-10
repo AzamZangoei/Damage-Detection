@@ -83,8 +83,6 @@ Apply signal processing techniques (Wavelet, S-transform).
 
 Use YOLO for crack detection in images.
 
-Combine sensor + image data for multimodal learning.
-
 📬 Contact
 
 For questions, email: a.zangoei1376@gmail.com
