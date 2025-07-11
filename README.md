@@ -29,7 +29,7 @@ Machine learning (classification, object detection)
 |----------------|--------|-----------|------------------|
 | Acceleration_Signals   |  404 MB  | Excel     | https://drive.google.com/drive/folders/1fii_RHSOM6R5h0bAxC_AdjBtGycMqmV4?usp=sharing  |
 | ST_Spectrogram_Accelometor   |  112 MB  | PNG        | https://drive.google.com/drive/folders/1Ve2fMpN5PFYn49mNLUTxLTyNpBdt8CBe?usp=sharing     |
-| ST_Spectrogram_Smartphone |  623 MB  | PNG       | اسپکتروگرام‌ها    |
+| ST_Spectrogram_Smartphone |  623 MB  | PNG       |   https://drive.google.com/drive/folders/1PVELYu7190upmGUFFoJz-Z5eoY066DBU?usp=sharing  |
 | camera images_part1 |  934 MB  | ZIP       | https://drive.google.com/file/d/1bSkSW04dNdF0HQUITcadxNXLIetRIw5L/view?usp=sharing    |
 | camera images_part2 |  1.26 GB  | ZIP       | https://drive.google.com/file/d/1OPNfdCiaA95y5gDoN8AOPbLJbo-CDv_5/view?usp=sharing   |
 
